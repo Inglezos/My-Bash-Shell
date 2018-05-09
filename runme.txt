@@ -1,0 +1,2 @@
+./Ergasia_Leitourgika_Final_4_Jan_2017.out runme2
+;pwd;whoami;echo hi;ls;
